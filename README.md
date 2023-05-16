@@ -26,7 +26,7 @@
   -🌍 I'm based in Mendoza, Argentina <br />
   -✉️ You can contact me at:
   <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
-  -🔭 I’m currently working <b style="color: rgb(0, 255, 157)">BARIN</b> <br />
+  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)">BARIN</b> <br />
   -🌱 I’m currently learning Next.js <br />
   - Don't forget to visit my portfolio:
   <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/"
