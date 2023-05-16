@@ -8,7 +8,13 @@
     font-size: 50px;
   "
 >
-  Hi there! 👋 <br />
+  Hi there!
+  <img
+    style="height: 65px"
+    src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif"
+    alt=""
+  />
+  <br />
   I'm Mauro Aceituno <br />
   Full stack MEAN developer.
 </h1>
