@@ -1,4 +1,4 @@
-<img src"https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg" alt="">
 <h1
   style="
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -126,4 +126,3 @@
     alt=""
   />
 </div>
-
