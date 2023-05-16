@@ -30,7 +30,11 @@
 >
   Skills
 </h1>
-
+<img
+  style="height: 45px; width: 45px"
+  src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
+  alt=""
+/>
 <img
   style="height: 45px; width: 45px"
   src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"
@@ -77,11 +81,7 @@
   src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
   alt=""
 />
-<img
-  style="height: 45px; width: 45px"
-  src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"
-  alt=""
-/>
+
 <img
   style="height: 45px; width: 45px"
   src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"
