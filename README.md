@@ -10,7 +10,7 @@
 >
   Hi there!
   <img
-    style="height: 65px"
+    style="height: 45px"
     src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif"
     alt=""
   />
@@ -29,7 +29,7 @@
   -🔭 I’m currently working on BARIN <br />
   -🌱 I’m currently learning Next.js <br />
   - Don't forget to visit my portfolio:
-  <a href="https://portfolio-mauro-aceituno.vercel.app/">PORTFOLIO</a>
+  <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/">PORTFOLIO</a>
 </h2>
 <br />
 
