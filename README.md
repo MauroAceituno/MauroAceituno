@@ -26,10 +26,10 @@
   -🌍 I'm based in Mendoza, Argentina <br />
   -✉️ You can contact me at:
   <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
-  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)"><img
+  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)"><img style="height: 50px"
   src="https://solucionesandinas.com.ar/wp-content/uploads/2020/03/SolucionesAndinas-160x69.png"
   alt=""
-/> Soluciones Andinas</b> <br />
+/></b> <br />
   -🌱 I’m currently learning Next.js <br />
   - Don't forget to visit my portfolio:
   <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/"
