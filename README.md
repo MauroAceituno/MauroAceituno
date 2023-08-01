@@ -1,5 +1,5 @@
 <img
-  src="https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg"
+  src="[https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)"
   alt=""
 />
 <h1
@@ -26,7 +26,7 @@
   -🌍 I'm based in Mendoza, Argentina <br />
   -✉️ You can contact me at:
   <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
-  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)">BARIN</b> <br />
+  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)">Soluciones Andinas</b> <br />
   -🌱 I’m currently learning Next.js <br />
   - Don't forget to visit my portfolio:
   <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/"
