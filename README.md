@@ -16,7 +16,7 @@
   />
   <br />
   I'm Mauro Aceituno <br />
-  Full stack MEAN developer.
+  Full stack MEAN/MERN developer.
 </h1>
 <h2
   style="
