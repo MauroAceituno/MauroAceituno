@@ -27,7 +27,7 @@
   -✉️ You can contact me at:
   <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
   -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)"><a target="_blank" href="https://solucionesandinas.com.ar/"><img style="height: 40px"
-  src="https://solucionesandinas.com.ar/wp-content/uploads/2020/03/SolucionesAndinas-160x69.png"
+  src="https://solucionesandinas.com.ar/wp-content/uploads/2023/02/cropped-a.png"
   alt=""
 /></a></b> <br />
   -🌱 I’m currently learning Next.js <br />
