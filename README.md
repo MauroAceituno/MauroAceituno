@@ -30,7 +30,7 @@
   src="https://solucionesandinas.com.ar/wp-content/uploads/2023/02/cropped-a.png"
   alt=""
 /></a></b> <br />
-  -🌱 I’m currently learning Next.js <br />
+  -🌱 I’m currently learning NestJS <br />
   - Don't forget to visit my portfolio:
   <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/"
     >PORTFOLIO</a
