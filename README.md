@@ -25,7 +25,7 @@
 >
   -🌍 I'm based in Mendoza, Argentina <br />
   -✉️ You can contact me at:
-  <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
+  <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br /> <br />
   -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)"><a target="_blank" href="https://solucionesandinas.com.ar/"><img style="height: 20px"
   src="https://solucionesandinas.com.ar/wp-content/uploads/2023/02/cropped-a.png"
   alt=""
