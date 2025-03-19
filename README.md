@@ -32,8 +32,7 @@
 /></a></b> <br />
   
   - Don't forget to visit my portfolio:
-  <a target="_blank" href="https://portfolio-mauro-aceituno.vercel.app/"
-    >PORTFOLIO</a
+  https://portfolio-mauro-aceituno.vercel.app/
   >
 </h2>
 <br />
