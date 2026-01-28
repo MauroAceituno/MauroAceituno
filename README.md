@@ -31,8 +31,7 @@
   alt=""
 /></a></b> <br />
   
-  - Don't forget to visit my portfolio:
-  https://portfolio-mauro-aceituno.vercel.app/
+ 
   >
 </h2>
 <br />
