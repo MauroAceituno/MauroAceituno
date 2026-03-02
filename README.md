@@ -155,44 +155,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   "
 >
-  GitHub Insights
+  GitHub Streak
 </h1>
 
 <div align="center">
-
-  <!-- Stats generales -->
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MauroAceituno&show_icons=true&theme=radical&hide_border=true"
-  />
-
-  <!-- Lenguajes más usados -->
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroAceituno&layout=compact&theme=radical&hide_border=true"
-  />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Racha de commits -->
-  <img
-    height="180em"
+    height="200em"
     src="https://streak-stats.demolab.com?user=MauroAceituno&theme=radical&hide_border=true"
   />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Trofeos -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=MauroAceituno&theme=radical&no-frame=true&row=1&column=6"
-  />
-
 </div>
