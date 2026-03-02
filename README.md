@@ -23,7 +23,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   "
 >
--🌍 I'm based in Mendoza, Argentina <br />
+-🌍 I'm based in Mendoza, Argentina <br /> <br />
 
 -✉️ You can contact me at:
 <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a> <br />
