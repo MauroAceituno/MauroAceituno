@@ -28,7 +28,7 @@
   <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br /> <br />
  -🔭 I’m currently working on <b style="color: rgb(0, 255, 157)">
 <a target="_blank" href="https://pixel-master-eight.vercel.app/">
-  https://pixel-master-eight.vercel.app/
+  PIXEL ART GENERATOR & EDITOR
 </a>
 </b> <br />
   
