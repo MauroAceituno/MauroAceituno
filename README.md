@@ -23,18 +23,20 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   "
 >
-  -🌍 I'm based in Mendoza, Argentina <br />
-  -✉️ You can contact me at:
-  <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a><br />
+-🌍 I'm based in Mendoza, Argentina <br />
+
+-✉️ You can contact me at:
+<a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a> <br />
+
 -🏰 Check out my AI-powered Pixel Art Generator project:
 <b style="color: rgb(0, 255, 157)">
   <a target="_blank" href="https://pixel-master-eight.vercel.app/">
     Pixel Art Generator & Editor
   </a>
-</b>
--🎮 I’m currently working on NOCTEBON, an online multiplayer fantasy pixel art game
- 
-  >
+</b> <br />
+
+-🎮 I’m currently working on NOCTEBON, an online multiplayer fantasy pixel art game <br />
+
 </h2>
 <br />
 
