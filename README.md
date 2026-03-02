@@ -31,8 +31,8 @@
   <a target="_blank" href="https://pixel-master-eight.vercel.app/">
     Pixel Art Generator & Editor
   </a>
-</b> <br />
-  
+</b>
+-🎮 I’m currently working on NOCTEBON, an online multiplayer fantasy pixel art game
  
   >
 </h2>
