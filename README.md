@@ -31,7 +31,7 @@
 -💡 Check out ViewGate — an MCP + AI-powered tool for devs, UX, PMs & more:
 <b style="color: rgb(0, 255, 157)">
   <a target="_blank" href="https://view-gate-landing.vercel.app">
-    Pixel Art Generator & Editor
+    ViewGate
   </a>
 </b> <br />
 
