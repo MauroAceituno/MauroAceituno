@@ -28,6 +28,13 @@
 -✉️ You can contact me at:
 <a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a> <br />
 
+-💡 Check out ViewGate — an MCP + AI-powered tool for devs, UX, PMs & more:
+<b style="color: rgb(0, 255, 157)">
+  <a target="_blank" href="https://view-gate-landing.vercel.app">
+    Pixel Art Generator & Editor
+  </a>
+</b> <br />
+
 -🏰 Check out my AI-powered Pixel Art Generator project:
 <b style="color: rgb(0, 255, 157)">
   <a target="_blank" href="https://pixel-master-eight.vercel.app/">
