@@ -44,7 +44,7 @@ Building products, ideas and weird experiments on the internet.
 <img 
   src="https://view-gate-landing.vercel.app/applogo.png" 
   alt="FIXPLIS"
-  style="height: 24px; vertical-align: middle;"
+  style="height: 40px; vertical-align: middle;"
 />
  — an animated software company  
 <br/><br/>
