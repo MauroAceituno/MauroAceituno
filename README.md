@@ -41,7 +41,12 @@ Building products, ideas and weird experiments on the internet.
 <br/><br/>
 
 🧠 Founder of  
-<b style="color: rgb(0, 255, 157)">FIXPLIS</b> — an animated software company  
+<img 
+  src="https://view-gate-landing.vercel.app/applogo.png" 
+  alt="FIXPLIS"
+  style="height: 24px; vertical-align: middle;"
+/>
+ — an animated software company  
 <br/><br/>
 
 ✉️ Contact me at:  
