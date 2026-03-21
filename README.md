@@ -1,138 +1,72 @@
-<img
-  src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
-  alt=""
-/>
-
-<h1
-  style="
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 50px;
-  "
->
-  Hi there!
-  <img
-    style="height: 45px"
-    src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif"
-    alt=""
-  />
-  <br />
-  I'm Mauro Aceituno
-  <br />
-  <span style="font-size:28px;">Senior Thinker</span>
-</h1>
-
-<h3
-  style="
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  "
->
-Building products, ideas and weird experiments on the internet.
-</h3>
-
-<br/>
-
-<h2
-  style="
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  "
->
-
-🌍 Based in Mendoza, Argentina  
-<br/><br/>
-
-🧠 Founder of  
-<img 
-  src="https://view-gate-landing.vercel.app/applogo.png" 
-  alt="FIXPLIS"
-  style="
-    height: 80px;
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
-  "
-/>
-
- — an animated software company  
-<br/><br/>
-
-✉️ Contact me at:  
-<a href="mailto:mauro.aceituno@gmail.com">mauro.aceituno@gmail.com</a>
-
-<br/><br/>
-
-💡 Creator of  
-<b style="color: rgb(0, 255, 157)">
-<a target="_blank" href="https://view-gate-landing.vercel.app">
-ViewGate
-</a>
-</b>  
-MCP + AI powered tool for devs, UX, PMs & product teams
-
-<br/><br/>
-
-🎨 Built  
-<b style="color: rgb(0, 255, 157)">
-<a target="_blank" href="https://pixel-master-eight.vercel.app/">
-Pixel Art Generator & Editor
-</a>
-</b>  
-AI powered pixel art creation tool
-
-<br/><br/>
-
-🎮 Currently building  
-<b>NOCTEBON</b> — an online multiplayer fantasy pixel art game
-
-</h2>
-
-<br/>
-
-<h1
-  style="
-    color: black;
-    text-shadow: 1px 2px 1px whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  "
->
-⚡ Skills
-</h1>
-
-<div style="display: inline">
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
-  <img style="height:45px;width:45px" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" />
 </div>
 
-<br/><br/>
+# Hi there! <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="35" /> I'm Mauro Aceituno
+### **Senior Thinker** | Building products, ideas and weird experiments on the internet.
 
-<h1
-  style="
-    color: black;
-    text-shadow: 1px 2px 1px whitesmoke;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  "
->
-🔥 GitHub Streak
-</h1>
+---
+
+## 🚀 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 TheOz</h3>
+      <p><b>Architectural Guardian & AI Orchestrator</b>. AST-aware, RAG-powered, safe code modification with deep validation.</p>
+      <a href="https://www.npmjs.com/package/theoz">
+        <img src="https://img.shields.io/npm/v/theoz?color=00FF9D&style=for-the-badge" alt="NPM Version" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 ViewGate</h3>
+      <p><b>MCP + AI powered tool</b> for devs, UX, PMs & product teams. Streamlining communication and workflow.</p>
+      <a href="https://view-gate-landing.vercel.app">
+        <img src="https://img.shields.io/badge/Visit-ViewGate-blue?style=for-the-badge&logo=vercel" alt="ViewGate" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Pixel Art Master</h3>
+      <p><b>AI-powered</b> pixel art creation tool. Generate and edit pixel art with the power of stable diffusion.</p>
+      <a href="https://pixel-master-eight.vercel.app/">
+        <img src="https://img.shields.io/badge/Try-PixelArt-orange?style=for-the-badge" alt="Pixel Art" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 NOCTEBON</h3>
+      <p>An online <b>multiplayer fantasy</b> pixel art game. Exploring the depths of procedural generation and combat.</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge" alt="In Development" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌍 About Me
+- 🇦🇷 Based in **Mendoza, Argentina**.
+- 🚀 Founder of <img src="https://view-gate-landing.vercel.app/applogo.png" height="25" style="image-rendering: pixelated;" /> **FIXPLIS** — an animated software company.
+- ✉️ Reach me at: [mauro.aceituno@gmail.com](mailto:mauro.aceituno@gmail.com)
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <img
-    height="200em"
-    src="https://streak-stats.demolab.com?user=MauroAceituno&theme=radical&hide_border=true"
-  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,aws,github,vscode,figma,ps,ai,blender&theme=dark" />
+</div>
+
+---
+
+## 🔥 Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MauroAceituno&theme=tokyonight&hide_border=true" height="180em" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MauroAceituno&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 </div>
